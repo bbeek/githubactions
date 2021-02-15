@@ -1,4 +1,5 @@
 name: Build master
+name: Build
 
 on: [push]
 
